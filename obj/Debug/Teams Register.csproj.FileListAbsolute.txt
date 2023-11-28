@@ -1,0 +1,12 @@
+D:\Project\bin\Debug\Teams Register.exe.config
+D:\Project\bin\Debug\Teams Register.exe
+D:\Project\bin\Debug\Teams Register.pdb
+D:\Project\obj\Debug\Teams Register.csproj.AssemblyReference.cache
+D:\Project\obj\Debug\Teams_Register.Login.resources
+D:\Project\obj\Debug\Teams_Register.Properties.Resources.resources
+D:\Project\obj\Debug\Teams Register.csproj.GenerateResource.cache
+D:\Project\obj\Debug\Teams Register.csproj.CoreCompileInputs.cache
+D:\Project\obj\Debug\Teams Register.exe
+D:\Project\obj\Debug\Teams Register.pdb
+D:\Project\obj\Debug\CustomMessageBox.Private.FormMessageBox.resources
+D:\Project\obj\Debug\Teams_Register.RegisterTeam.resources
